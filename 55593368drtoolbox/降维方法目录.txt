@@ -1,0 +1,94 @@
+Currently, the Matlab Toolbox for Dimensionality Reduction contains the following techniques:
+
+
+Principal Component Analysis (PCA)
+
+Probabilistic PCA
+
+
+Factor Analysis (FA)
+
+
+Sammon mapping
+
+
+Linear Discriminant Analysis (LDA)
+
+
+Multidimensional scaling (MDS)
+
+
+Isomap
+
+
+Landmark Isomap
+
+
+Local Linear Embedding (LLE)
+
+
+Laplacian Eigenmaps
+
+
+Hessian LLE
+
+
+Local Tangent Space Alignment (LTSA)
+
+
+Conformal Eigenmaps (extension of LLE)
+
+
+Maximum Variance Unfolding (extension of LLE)
+
+
+Landmark MVU (LandmarkMVU)
+
+
+Fast Maximum Variance Unfolding (FastMVU)
+
+
+Kernel PCA
+
+
+Generalized Discriminant Analysis (GDA)
+
+
+Diffusion maps
+
+
+Stochastic Neighbor Embedding (SNE)
+
+
+Symmetric SNE (SymSNE)
+
+
+new: t-Distributed Stochastic Neighbor Embedding (t-SNE)
+
+
+Neighborhood Preserving Embedding (NPE)
+
+
+Locality Preserving Projection (LPP)
+
+
+Linear Local Tangent Space Alignment (LLTSA)
+
+
+Stochastic Proximity Embedding (SPE)
+
+
+Multilayer autoencoders (training by RBM + backpropagation or by an evolutionary algorithm)
+
+Local Linear Coordination (LLC)
+
+
+Manifold charting
+
+
+Coordinated Factor Analysis (CFA)
+
+
+new: Gaussian Process Latent Variable Model (GPLVM)
+
+
